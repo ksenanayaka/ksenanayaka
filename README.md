@@ -1,6 +1,6 @@
 ### Hi there 👋<h2> I'm Kushan</h2>
 
-<img align='right' src="https://img-s2.onedio.com/id-57175c77608f6de54e7eebc4/rev-0/w-900/h-488/f-gif/s-0e51478e4e093a8b38b9b66f5fa2d79a5731cd17.gif" width="230">
+<img align='right' src="https://i.cdn29.hu/apix_collect_c/1308/the-it-crowd/the_it_crowd_screenshot_20161009170505_1_original_760x425_cover.gif" width="230">
 
 <h3> 👨‍ About Me </h3>
 
