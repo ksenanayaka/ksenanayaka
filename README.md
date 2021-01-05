@@ -21,7 +21,7 @@
 
 
 
-- 💻 &nbsp; Java | C++ | C | MySQL
+- 💻 &nbsp; Java | C++ | C
 
 - 🌐 &nbsp; HTML | CSS | JavaScript | Bootstrap | ReactJS | VueJS
 
