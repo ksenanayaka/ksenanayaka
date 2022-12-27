@@ -5,6 +5,8 @@
 <h3> 👨‍ About Me </h3>
 
 
+- 💻 &nbsp; Co-Founder @syetalabs
+
 - 💻 &nbsp; Entrepreneur, Developer and Gamer
 
 - 🤔 &nbsp; Exploring new technologies and developing software solutions
