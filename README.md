@@ -5,13 +5,13 @@
 <h3> 👨‍ About Me </h3>
 
 
-- 🏢 &nbsp; Co-Founder at Syeta Labs 💚
+- 🏢 &nbsp; Co-Founder at WaveZync 💙
 
 - 💻 &nbsp; Entrepreneur, Developer and Gamer
 
 - 🤔 &nbsp; Exploring new technologies and developing software solutions
 
-- 🎓 &nbsp; Studied Computer Engineering at University of Peradeniya
+- 🎓 &nbsp; Studied Computer Engineering at the University of Peradeniya
 
 - 🌱 &nbsp; Learning about Project Management, Software Architecture
 
